@@ -1,1 +1,1 @@
-unzip file and run main.exe
+run main.exe
